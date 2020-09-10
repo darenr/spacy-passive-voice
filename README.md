@@ -1,7 +1,8 @@
 # spacy-passive-voice
 NLP example showing how to detect active voice sentences using Spacy
 
-![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 
 To install the required model use:
 
